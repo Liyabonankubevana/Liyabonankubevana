@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# LIYABONA NKUBEVANA, 
+### JUNIOR SOFTWARE DEVELOPER 
+
+![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/Liyabonankubevana/Liyabonankubevana/assets/99335910/e3e037a7-7973-4475-982c-161887d24eea)
+
 
 ## About me:
 
