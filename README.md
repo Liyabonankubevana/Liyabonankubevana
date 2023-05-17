@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 # LIYABONA NKUBEVANA, 
-### JUNIOR SOFTWARE DEVELOPER 
+#### JUNIOR SOFTWARE DEVELOPER 
 
 
 ## About me:
