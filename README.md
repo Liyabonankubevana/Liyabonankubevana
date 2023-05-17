@@ -21,3 +21,5 @@ I am an entry-level Software Developer looking for a position where I can learn 
 - 👯 I’m looking to collaborate on Front-end projects to enhance my skillset and pick up any new skills.
 - 🤔 I’m looking for help with resources to start working on open-sourced projects. 
 - 📫 How to reach me: Liyabonankubevana94@gmail.com || https://www.linkedin.com/in/liyabona-nkubevana-746904249/ || 
+
+https://github.com/Liyabonankubevana/Liyabonankubevana/blob/output/github-contribution-grid-snake.svg
