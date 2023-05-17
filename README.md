@@ -1,14 +1,11 @@
-### Hi there 👋
+![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/Liyabonankubevana/Liyabonankubevana/assets/99335910/e3e037a7-7973-4475-982c-161887d24eea)
 
+### Hi there 👋
 # LIYABONA NKUBEVANA, 
 ### JUNIOR SOFTWARE DEVELOPER 
 
-![animated-chock-coding-c78f6elj32sfoi8q](https://github.com/Liyabonankubevana/Liyabonankubevana/assets/99335910/e3e037a7-7973-4475-982c-161887d24eea)
-
 
 ## About me:
-
-
 
 I am an entry-level Software Developer looking for a position where I can learn on the job. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in HTML5, CSS, and JavaScript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
